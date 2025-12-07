@@ -72,7 +72,8 @@ Covers IAM, Azure AD hardening, M365 security, automation, incident response, an
 
 - Microsoft SC-300 — Identity & Access Administrator  
 - Microsoft SC-500 — Cybersecurity Architect  
-- Microsoft AZ-500 — Azure Security Engineer  
+- Microsoft AZ-500 — Azure Security Engineer
+- Microsoft MS-100 — Identity and Services
 - Microsoft 365 & Azure Fundamentals  
 - CompTIA Security+  
 - PSM I – Professional Scrum Master  
