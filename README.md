@@ -55,7 +55,7 @@ This positioning allows me to operate both as:
 - Migration projects (M365, Adobe, IAM)  
 - Security baseline implementation  
 - Technical documentation & RCA  
-- Cross-team coordination (Infra, Security, Workplace)  
+- Cross-team coordination (Jira, Infra, Security, Workplace)  
 
 ---
 
