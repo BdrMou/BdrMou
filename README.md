@@ -86,7 +86,7 @@ Covers IAM, Azure AD hardening, M365 security, automation, incident response, an
 # 📬 Contact
 
 📧 **badre.moumane@cypher-one.com**  
-🔗 LinkedIn: *(your link here)*
+🔗 LinkedIn: *https://www.linkedin.com/in/badre-moumane-361724179/*
 
 ---
 
